@@ -1,6 +1,6 @@
 <h2 align="center">☁️ DreamCoding React Study</h2>
 <div align="center">
-  <img width="400px;" src="./images/react.jpeg"/>
+  <img width="500px;" src="./images/react.png"/>
 </div>
 <p align="center">[드림코딩] 리액트 개념정리 및 클론코딩 강의를 통한 리액트 스터디</p>
 
