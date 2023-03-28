@@ -39,7 +39,7 @@ npx create-react-app dream-react-cra
 ## npm start
 
 ```bash
-cd my-app
+cd dream-react-cra
 npm start
 ```
 
