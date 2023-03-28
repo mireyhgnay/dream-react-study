@@ -1,4 +1,4 @@
-# <div align="center">📌 라이브러리와 프레임워크 차이점</div>
+# <div align="center">📌 React 개발 환경 설정 : Node 에 대한 간략한 설명</div>
 
 ## Node
 
