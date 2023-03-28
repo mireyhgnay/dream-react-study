@@ -48,8 +48,10 @@
 
 ## My Study Note
 
-[📌 React : 라이브러리와 프레임워크 차이점](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+[✏️ React : 라이브러리와 프레임워크 차이점](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
-[📌 React : 리액트 동작 원리](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+[✏️ React : 리액트 동작 원리](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
-[📌 React 개발 환경 설정 : Node 에 대한 간략한 설명](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20:%20Node%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%84%EB%9E%B5%ED%95%9C%20%EC%84%A4%EB%AA%85.md)
+[🛠️ React 개발 환경 설정 : Node 에 대한 간략한 설명](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20:%20Node%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%84%EB%9E%B5%ED%95%9C%20%EC%84%A4%EB%AA%85.md)
+
+[👩🏻‍💻 React 개발 환경 설정 : Create React App 프로젝트 만들기]()
