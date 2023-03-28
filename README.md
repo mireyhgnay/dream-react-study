@@ -37,12 +37,13 @@
 
 > 공식 사이트 & 유용한 사이트
 
-| 구분                  | 링크                                             |
-| --------------------- | ------------------------------------------------ |
-| React 공식 문서       | https://ko.reactjs.org/docs/getting-started.html |
-| React 베타 문서       | https://react.dev/                               |
-| Create React App      | https://create-react-app.dev/                    |
-| HTML to JSX Transform | https://transform.tools/html-to-jsx              |
+| 구분                     | 링크                                                   |
+| ------------------------ | ------------------------------------------------------ |
+| React 공식 문서          | https://ko.reactjs.org/docs/getting-started.html       |
+| React 베타 문서          | https://react.dev/                                     |
+| Create React App         | https://create-react-app.dev/                          |
+| HTML to JSX Transform    | https://transform.tools/html-to-jsx                    |
+| 사용한 Box Shadow 사이트 | https://cssgenerator.org/box-shadow-css-generator.html |
 
 <br>
 <br>
