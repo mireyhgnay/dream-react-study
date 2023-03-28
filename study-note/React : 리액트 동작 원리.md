@@ -32,7 +32,7 @@ export function CounterButton(props) {
 
 **REACT**
 
-데이터 (**`State`**(내부상태), **`Props`**(외부로부터 전달 받은 상태))를 나타내는 **`render`** 가 있다.
+데이터 **`State`**(내부상태), **`Props`**(외부로부터 전달 받은 상태)를 나타내는 **`render`** 가 있다.
 
 상태가 변경될때마다 re-render 된다.
 

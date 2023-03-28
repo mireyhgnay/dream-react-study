@@ -10,8 +10,6 @@
 
 [**Dream Coding : 리액트 개념정리 · 클론코딩 강의 보러가기** 👉](https://academy.dream-coding.com/courses/react)
 
-[**Notion : 개인 노션 정리 보러가기** 👉](https://hyerimiya.notion.site/c11bd49955b84f828dd77a3516ca6ce7)
-
 <br>
 
 **✨ Challenge**
