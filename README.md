@@ -70,4 +70,4 @@
 
 [👩🏻‍💻 React : useEffect 사용하여 데이터 한번만 호출하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20useEffect%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%95%9C%EB%B2%88%EB%A7%8C%20%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0.md)
 
-[👩🏻‍💻 React : 고유한 key 설정하기.md]()
+[👩🏻‍💻 React : 고유한 key 설정하기.md](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EA%B3%A0%EC%9C%A0%ED%95%9C%20key%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
