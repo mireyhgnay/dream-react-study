@@ -64,4 +64,4 @@
 
 [🛠️ React 개발 환경 설정 : 개발 툴 Babel, Webpack](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20%20:%20%EA%B0%9C%EB%B0%9C%20%ED%88%B4%20Babel%2C%20Webpack.md)
 
-[👩🏻‍💻 Props를 통해 컴포넌트 재사용성 높이기]()
+[👩🏻‍💻 Props를 통해 컴포넌트 재사용성 높이기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/%08React%20:%20Props%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%20%EB%86%92%EC%9D%B4%EA%B8%B0.md)
