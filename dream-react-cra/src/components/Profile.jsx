@@ -1,12 +1,11 @@
 import React from 'react';
-import hinata from '../images/hinata.jpeg';
 
-export default function Profile() {
+export default function Profile({image, name, title}) {
   return (
     <div className='profile'>
-      <img className='photo' src={hinata} alt='hinata' />
-      <h1>HINATA</h1>
-      <p>Animation Character</p>
+      <img className='photo' src={image} alt='person' />
+      <h1>{name}</h1>
+      <p>{title}</p>
     </div>
   );
 }
