@@ -38,3 +38,11 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+
+.button {
+  width: 100px;
+  height: 35px;
+  margin: 20px 0;
+  font-weight: bold;
+  font-size: 16px;
+}
