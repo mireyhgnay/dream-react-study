@@ -7,7 +7,7 @@ import k from './images/k.jpeg';
 function AppProfile() {
   return (
     <>
-      <Profile image={hinata} name='Hinata' title='Animation Character' />
+      <Profile image={hinata} name='Hinata' title='Animation Character' isNew={true} />
       <Profile image={kenma} name='Kenma' title='Animation Character' />
       <Profile image={k} name='K' title='Animation Character' />
     </>
