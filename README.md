@@ -67,3 +67,5 @@
 [👩🏻‍💻 React : Props를 통해 컴포넌트 재사용성 높이기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Props%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%20%EB%86%92%EC%9D%B4%EA%B8%B0.md)
 
 [👩🏻‍💻 React : Event 처리하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Event%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+
+[👩🏻‍💻 React : useEffect 사용하여 데이터 한번만 호출하기]()
