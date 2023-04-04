@@ -2,26 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-// import AppProfile from "./AppProfile";
-// import AppCounter from "./AppCounter";
-// import AppProducts from "./AppProducts";
-// import AppXY from "./AppXY";
-// import AppMentor from "./AppMentor";
-// import AppMentors from "./AppMentors";
-// import AppMentorsImmer from "./AppMentorsImmer";
-import AppForm from "./AppForm";
+import AppTheme from "./AppTheme";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    {/* <AppProfile /> */}
-    {/* <AppCounter /> */}
-    {/* <AppProducts /> */}
-    {/* <AppXY /> */}
-    {/* <AppMentor /> */}
-    {/* <AppMentors /> */}
-    {/* <AppMentorsImmer /> */}
-    <AppForm />
+    <AppTheme />
   </React.StrictMode>
 );
 
