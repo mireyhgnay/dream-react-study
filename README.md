@@ -49,6 +49,7 @@
 <br>
 
 ## My Study Note
+### React의 주요 철학은 모든 UI의 업데이트는 상태 변경으로 부터 발생해야 한다.
 
 [✏️ React : 라이브러리와 프레임워크 차이점](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
@@ -71,3 +72,11 @@
 [👩🏻‍💻 React : useEffect 사용하여 데이터 한번만 호출하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20useEffect%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%95%9C%EB%B2%88%EB%A7%8C%20%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0.md)
 
 [👩🏻‍💻 React : 고유한 key 설정하기.md](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EA%B3%A0%EC%9C%A0%ED%95%9C%20key%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
+
+[👩🏻‍💻 React : 상태관리 라이브러리]()
+
+[👩🏻‍💻 React : Hook - useReducer]()
+
+[👩🏻‍💻 React : useImmer 사용해보기]()
+
+[👩🏻‍💻 React : Form을 만들기 위해서는 상태를 설정해주어야한다]()
