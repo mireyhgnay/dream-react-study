@@ -46,6 +46,16 @@
 | 사용한 Box Shadow 사이트 | https://cssgenerator.org/box-shadow-css-generator.html |
 
 <br>
+
+**🔥 Insall**
+
+```bash
+$ cd dream-react-cra
+$ npm install
+$ npm start
+```
+
+<br>
 <br>
 
 ## My Study Note
