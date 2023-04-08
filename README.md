@@ -58,6 +58,19 @@ $ npm start
 <br>
 <br>
 
+## Projects
+
+[React CSS Library Project 보러가기 👉](https://github.com/mireyhgnay/react-css-library)
+
+[To Do Project 보러가기 👉]()
+
+[Youtube Project 보러가기 👉]()
+
+[Shopping Mall Project 보러가기 👉]()
+
+<br>
+<br>
+
 ## My Study Note
 
 ### React의 주요 철학은 모든 UI의 업데이트는 상태 변경으로 부터 발생해야 한다.
@@ -95,16 +108,3 @@ $ npm start
 [👩🏻‍💻 React : Context API 와 다크모드](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Context%20API%20%EC%99%80%20%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C.md)
 
 [🔥 React : Netlify로 배포하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Netlify%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
-
-<br>
-<br>
-
-## Projects
-
-[React CSS Library Project 보러가기 👉](https://github.com/mireyhgnay/react-css-library)
-
-[To Do Project 보러가기 👉]()
-
-[Youtube Project 보러가기 👉]()
-
-[Shopping Mall Project 보러가기 👉]()
