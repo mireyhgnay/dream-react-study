@@ -62,7 +62,7 @@ $ npm start
 
 [React CSS Library Project 보러가기 👉](https://github.com/mireyhgnay/react-css-library)
 
-[To Do Project 보러가기 👉]()
+[To Do Project 보러가기 👉](https://github.com/mireyhgnay/toy-react-todolist)
 
 [Youtube Project 보러가기 👉]()
 
