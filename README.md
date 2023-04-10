@@ -83,6 +83,8 @@ $ npm start
 
 [✏️ React : 이미지 넣는 방법 (이미지 경로)](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%84%A3%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
+[✏️ React : React Router(리액트 라우터)와 CSR(Client Side Routing)]()
+
 [🛠️ React 개발 환경 설정 : Node 에 대한 간략한 설명](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20:%20Node%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%84%EB%9E%B5%ED%95%9C%20%EC%84%A4%EB%AA%85.md)
 
 [🛠️ React 개발 환경 설정 : Create React App 프로젝트 만들기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20:%20Create%20React%20App%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
