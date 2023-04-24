@@ -4,6 +4,7 @@ import NotFound from "../pages/NotFound";
 import Videos from "../pages/Videos";
 import Home from "../pages/Home";
 import Root from "../pages/Root";
+import VideoDetail from "../pages/VideoDetail";
 
 // 라우터 경로를 설명할 수 있는 경로를 각각 배열로 넣어준다.
 const router = createBrowserRouter([
@@ -17,6 +18,8 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       { path: "/videos", element: <Videos /> },
+      // param 추가
+      { path: "/videos/:videoId", element: <VideoDetail /> },
     ],
   },
 ]);
