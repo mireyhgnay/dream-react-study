@@ -119,4 +119,4 @@ $ npm start
 
 [📁 React : Param(상세페이지) 사용하기](<https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Param(%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80)%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md>)
 
-[📁 React : 리액트 쿼리(React Query)]()
+[📁 React : 리액트 쿼리(React Query)](<https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20%3A%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BF%BC%EB%A6%AC(React%20Query).md>)
